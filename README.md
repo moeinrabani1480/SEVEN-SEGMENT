@@ -1,0 +1,2 @@
+# SEVEN-SEGMENT
+سون سگمنت
